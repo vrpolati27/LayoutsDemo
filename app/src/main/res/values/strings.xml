@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutsDemo</string>
+    <string name="developer_name">Vinay Reddy Polati</string>
+    <string name="course_number">CIS 600 Android Programming</string>
+    <string name="school_name">Syracuse University</string>
+    <string name="task1_name">Task1</string>
+    <string name="task2_name">Task2</string>
+    <string name="task3_name">Task3</string>
+    <string name="button_row1">Button1</string>
+    <string name="button_row2">Button2</string>
+    <string name="button_row3c1">Button3</string>
+    <string name="button_row3c2">Button4</string>
+    <string name="button_row4c1">Button5</string>
+    <string name="button_row4c2">Button6</string>
+    <string name="button_row34c34">Button7</string>
+    <string name="button_row5">Button8</string>
+    <string name="button_row6c1">Button9</string>
+    <string name="button_row6c2">Button10</string>
+</resources>
